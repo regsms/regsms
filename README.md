@@ -37,7 +37,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building robust, sca
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nestjs,vue,nuxt,html,css,bootstrap,jquery,git" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,phpstorm,webstorm,php,laravel,npm,nodejs,nestjs,vue,nuxt,pinia,vite,html,css,bootstrap,jquery,git,mysql,mongodb" />
 </p>
 
 ---
