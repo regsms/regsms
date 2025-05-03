@@ -42,14 +42,6 @@ I'm a passionate **Full-Stack Developer** with expertise in building robust, sca
 
 ---
 
-## ☕ Let's Connect
-
-- [LinkedIn](https://linkedin.com/) <!-- Добавь свою ссылку -->
-- [Telegram](https://t.me/YOUR_TELEGRAM_USERNAME) <!-- Замени на свой username -->
-- [Portfolio](https://your-portfolio.com) <!-- Добавь, если есть -->
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RegSms&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
